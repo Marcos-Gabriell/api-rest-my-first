@@ -27,9 +27,9 @@ Para iniciar o projeto em sua máquina, siga estas etapas:
 
 3. Execute o seguinte comando para clonar o repositório:
    ```sh
-   git clone https://github.com/Marcos-Gabriell/my-first-web-api.git
+   git clone https://github.com/Marcos-Gabriell/api-rest-my-first.git
    
-4. Após a conclusão do processo de clonagem, navegue até o diretório do projeto: `cd my-first-web-api`
+4. Após a conclusão do processo de clonagem, navegue até o diretório do projeto: `cd api-rest-my-first`
 
 5. Abra o projeto em seu editor ou IDEA de código preferido.
 

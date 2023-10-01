@@ -15,7 +15,7 @@ public class UsuarioController {
     private UsuarioRepository repository;
     @GetMapping()
     public List<Usuario>  getUsers() {
-       return  repository.findAll();
+        return  repository.findAll();
     }
 
     @GetMapping("/{username}")

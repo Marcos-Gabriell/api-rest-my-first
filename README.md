@@ -17,7 +17,10 @@ Antes de começar, certifique-se de que você tenha instalado em sua máquina:
 
 - Java JDK 8 ou superior
 - Maven ou Gradle (dependendo da sua preferência)
-
+- Uma IDE (Ambiente de Desenvolvimento Integrado) ou um editor de código: Você pode escolher entre várias opções populares, como:
+  - [Eclipse](https://www.eclipse.org/downloads/): Uma IDE poderosa e amplamente utilizada para desenvolvimento Java.
+  - [IntelliJ IDEA](https://www.jetbrains.com/idea/download/): Uma IDE popular com uma gama de recursos avançados.
+  - [Visual Studio Code](https://code.visualstudio.com/download): Um editor de código leve e altamente personalizável, com extensões para Java.
 ## Como Iniciar o Projeto
 
 Para iniciar o projeto em sua máquina, siga estas etapas:

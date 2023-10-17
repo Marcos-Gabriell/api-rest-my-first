@@ -1,6 +1,6 @@
 # Projeto para estudo de Desenvolvimento de APIs REST com Spring Web e Swagger
 
-Este projeto é um exemplo de desenvolvimento de APIs REST usando o framework Spring Web, com documentação gerada automaticamente pelo Swagger e tratamento de exceções personalizado. Desenvolvido durante o Santander Bootcamp 2023 - Fullstack Java+Angular
+Este projeto tem o intuito de terinar  é um exemplo de desenvolvimento de APIs REST usando o framework Spring Web, com documentação gerada automaticamente pelo Swagger e tratamento de exceções personalizado. Desenvolvido durante o Santander Bootcamp 2023 - Fullstack Java+Angular
 
 ## Tecnologias Utilizadas
 

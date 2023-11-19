@@ -37,4 +37,3 @@ Para iniciar o projeto em sua máquina, siga estas etapas:
 5. Abra o projeto em seu editor ou IDEA de código preferido.
 
 6. Agora, você precisa rodar o projeto.
-
